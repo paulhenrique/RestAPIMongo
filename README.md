@@ -12,3 +12,7 @@ Database API with node, express and mongoose to mongodb.
 * Mongoose
 * Express
 * Cors
+
+## Links
+* [Lattes](http://lattes.cnpq.br/1994196517067630)
+* [LinkedIn](https://br.linkedin.com/in/paulhenriquev)
